@@ -1,0 +1,16 @@
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.exe
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.deps.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.runtimeconfig.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.runtimeconfig.dev.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ref\ClassesDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\bin\Debug\net5.0\ClassesDemo.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.csprojAssemblyReference.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.AssemblyInfoInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.AssemblyInfo.cs
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ref\ClassesDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\ClassesDemo\obj\Debug\net5.0\ClassesDemo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HousAufgabe123/1.0.0": {
+        "runtime": {
+          "HousAufgabe123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HousAufgabe123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

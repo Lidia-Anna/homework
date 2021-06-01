@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lecture2Demo/1.0.0": {
+        "runtime": {
+          "Lecture2Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture2Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

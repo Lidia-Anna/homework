@@ -1,0 +1,16 @@
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.exe
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.deps.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.runtimeconfig.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.runtimeconfig.dev.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\ref\LoopsDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\bin\Debug\net5.0\LoopsDemo.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.csprojAssemblyReference.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.AssemblyInfoInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.AssemblyInfo.cs
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\ref\LoopsDemo.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\LoopsDemo\obj\Debug\net5.0\LoopsDemo.genruntimeconfig.cache

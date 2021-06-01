@@ -1,0 +1,16 @@
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.AssemblyInfoInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.AssemblyInfo.cs
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.csproj.CoreCompileInputs.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.exe
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.deps.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.runtimeconfig.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.runtimeconfig.dev.json
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\ref\HousAufgabe123.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\bin\Debug\net5.0\HousAufgabe123.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\ref\HousAufgabe123.dll
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.pdb
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.genruntimeconfig.cache
+C:\Users\Lidiia\source\repos\Lecture2Demo\HousAufgabe123\obj\Debug\net5.0\HousAufgabe123.csprojAssemblyReference.cache
