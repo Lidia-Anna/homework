@@ -6,8 +6,6 @@ namespace HomeWork2
     {
         static string checkMyLine()
         {
-
-
             int myline = 0;
             string line;
 
