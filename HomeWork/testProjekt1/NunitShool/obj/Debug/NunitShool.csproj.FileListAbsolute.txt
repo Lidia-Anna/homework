@@ -1,0 +1,2 @@
+C:\Users\Lidiia\source\repos\HomeWork\testProjekt1\NunitShool\obj\Debug\NunitShool.csprojAssemblyReference.cache
+C:\Users\Lidiia\source\repos\HomeWork\testProjekt1\NunitShool\obj\Debug\NunitShool.csproj.CoreCompileInputs.cache

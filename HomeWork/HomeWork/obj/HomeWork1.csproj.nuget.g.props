@@ -15,4 +15,8 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\Lidiia\.nuget\packages\newtonsoft.json\10.0.3</PkgNewtonsoft_Json>
+    <PkgSelenium_Mozilla_Firefox_Webdriver Condition=" '$(PkgSelenium_Mozilla_Firefox_Webdriver)' == '' ">C:\Users\Lidiia\.nuget\packages\selenium.mozilla.firefox.webdriver\0.6.0.1</PkgSelenium_Mozilla_Firefox_Webdriver>
+  </PropertyGroup>
 </Project>

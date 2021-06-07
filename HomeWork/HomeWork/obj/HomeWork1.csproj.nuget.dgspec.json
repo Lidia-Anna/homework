@@ -39,6 +39,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Selenium.Mozilla.Firefox.Webdriver": {
+              "target": "Package",
+              "version": "[0.6.0.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
